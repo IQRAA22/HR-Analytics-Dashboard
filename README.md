@@ -3,7 +3,7 @@
 An interactive Power BI dashboard that analyzes employee attrition,
 built as part of my Data Analytics internship.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpeg)
 
 ## Key Insights
 - 1,472 employees analyzed, 238 left (16.17% attrition rate)
@@ -22,6 +22,6 @@ built as part of my Data Analytics internship.
 Power BI, Power Query, DAX
 
 ## Files
-- `HR_Analytics_Dashboard.pbix` - the Power BI report
-- `HR_Analytics.csv` - the dataset
-- `dashboard.png` - dashboard preview
+- `HR ANALYTICS_DASHBOARD.pbix` - the Power BI report
+- `HR_Analytics csv.csv` - the dataset
+- `dashboard.png.jpeg` - dashboard preview
